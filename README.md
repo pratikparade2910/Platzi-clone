@@ -102,6 +102,13 @@ Platzi Fake Store API
  API Used
 https://api.escuelajs.co/api/v1/products
 
+
+
+ #   You can Login using 
+ *  Email:- pratik@gmail.com
+ *  password:-pratik2910
+
+
 You can run this app locally using:
 
 
